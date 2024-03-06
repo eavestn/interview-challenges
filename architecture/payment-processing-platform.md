@@ -32,9 +32,7 @@ The intent of this challenge is to determine how you think about clarity in desi
 
 Prepare an architectural diagram of your system. The system should be cloud-hosted and your design demonstrate your knowledge of fundamental cloud-hosted principles. 
 
-## Interview Format
-
-You will be given 15 minutes to present your design _and_ facilitate questions while presenting. 15 additional mimnutes will be dedicate to facilitating feedback on your design.
+Please spend no longer than three hours designing your system. This time should be spent conceptualizing the system, considering the various guidances below, and diagramming your solution. Incomplete solutions are acceptable; however, diagrammed components of the system should demonstrate rigor and completeness and thought. It is more important to have a well-behaved component of the system diagrammed than it is to diagram the whole system defined by the **Functioanl Requirements** section above.
 
 ### Guiding Question(s)
 
@@ -45,7 +43,9 @@ You will be given 15 minutes to present your design _and_ facilitate questions w
 - How simple would it be to add functionality to your design? Would the added functionality introduce unwanted complexit? Would a person adding functionality easily infer how the system should be extended?
 - What happens when the system experiences unexpected volume?
 
-## Criteria For Success
+### Principles To Consider
+
+### Criteria For Success
 
 Each of the below criteria should be explicitly and thoughtfully addressed.
 
@@ -57,8 +57,13 @@ Each of the below criteria should be explicitly and thoughtfully addressed.
 - [ ] The system handles decreased load.
 - [ ] The system makes clear decisions to optimize for efficiency.
 
-## Criteria For Failure
+### Criteria For Failure
 
 Areas of weakness in a solution are:
 
 - [ ] The inability to describe the motivation or reasoning behind a particular system component.  
+
+
+## Interview Format
+
+You will be given 15 minutes to present your design _and_ facilitate questions while presenting. 15 additional mimnutes will be dedicate to facilitating feedback on your design.
