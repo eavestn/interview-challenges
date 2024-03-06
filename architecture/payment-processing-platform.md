@@ -19,7 +19,15 @@ You will be given 15 minutes to present your design _and_ facilitate questions w
 - How simple would it be to add functionality to your design? Would the added functionality introduce unwanted complexit? Would a person adding functionality easily infer how the system should be extended?
 - What happens when the system experiences unexpected volume?
 
-## Requirement(s)
+## Functional Requirement(s)
+
+1. The system will allow for a consumer to register themselves as a **service provider**.  
+&nbsp; 1.1. The system will allow each service provider to register a **reimbursement** cadence.    
+&nbsp; &nbsp; &nbsp; &nbsp; 1.1.1. The reimbursement cadence can be at the granularity of daily, weekly, monthly, or yearly.  
+1.2. The systel will allow each service provider to 
+- The system will enable those service providers to submit a record of activity for `n` number of **members**.
+- 
+
 
 
 ## Criteria For Success
