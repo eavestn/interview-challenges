@@ -1,10 +1,14 @@
+# Motility Reimbursement Cycle Management System
+
 ## Introduction
 
-You will design a system that accommodates a small subset of behavior for a larger system (that behavior subset defined in **Functional Requirements** below). The system is a high-volume, data-intensive revenue management system. Clients (**service providers**) pay a fee to Motility in exchange for access to Motility's locations. Motility locations provider customers (**members**) with  You are responsible for designing a scalable, fault-tolerant system that facilitates interactions over HTTP and any other mode of interaction you believe is justifiable based upon your experience as an Engineer. In addition,  your solution should detail the surface layer system consumers will interact with. You are not responsible for designing the client. 
+You will design a system that accommodates a small subset of behavior for a larger system (that behavior is defined in **Functional Requirements** below). The system is a high-volume, data-intensive revenue management system. Clients (**service providers**) pay a fee to Motility in exchange for access to Motility's locations. Motility locations provider customers (**members**) with access to a widget exchange, where highly desireable widgets are traded, risk free. Every time a member visits a Motility location, Motility pays the assocaited service provider a small reward (**reimbursement**).
+
+You wil design the reimbursement component of the system. You are responsible for designing a scalable, fault-tolerant system that facilitates interactions over HTTP and any other mode of interaction you believe is justifiable based upon your experience as an Engineer. In addition, your solution should detail the surface layer system consumers will interact with. You are not responsible for designing the client. 
 
 The intent of this challenge is to determine how you think about clarity in design, your aptitude for selecting the tooling best suited for addressing the below-outlined requirements, and communication. 
 
-## Functional Requirement(s)
+## Functional Requirements
 
 **1.** The system will allow for a consumer to register themselves as a **service provider**.  
 &nbsp; &nbsp; **1.1.** The system will allow each service provider to register for a **reimbursement** cycle cadence.    
@@ -38,10 +42,6 @@ You will be given 15 minutes to present your design _and_ facilitate questions w
 - Why did you select any one of the cloud-based services you selected?
 - How simple would it be to add functionality to your design? Would the added functionality introduce unwanted complexit? Would a person adding functionality easily infer how the system should be extended?
 - What happens when the system experiences unexpected volume?
-
-
-
-
 
 ## Criteria For Success
 
