@@ -30,6 +30,8 @@ The intent of this challenge is to determine how you think about clarity in desi
 
 ## Deliverables
 
+Prepare an architectural diagram of your system. The system should be cloud-hosted and your design demonstrate your knowledge of fundamental cloud-hosted principles. 
+
 ## Interview Format
 
 You will be given 15 minutes to present your design _and_ facilitate questions while presenting. 15 additional mimnutes will be dedicate to facilitating feedback on your design.
