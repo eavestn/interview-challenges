@@ -40,7 +40,7 @@ Please spend no longer than three hours designing your system. This time should 
 - What potential risks does your design try to mitigate?
 - How did you ensure your design was easily understood by someone unfamiliar with the solution?
 - Why did you select any one of the cloud-based services you selected?
-- How simple would it be to add functionality to your design? Would the added functionality introduce unwanted complexit? Would a person adding functionality easily infer how the system should be extended?
+- How simple would it be to add functionality to your design? Would the added functionality introduce unwanted complexity? Would a person adding functionality easily infer how the system should be extended?
 - What happens when the system experiences unexpected volume?
 
 ### Principles To Consider
