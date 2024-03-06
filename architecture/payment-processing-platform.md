@@ -1,8 +1,26 @@
 ## Introduction
 
-Design a data-intensive system capable of facilitating high-volumepayment processing transactions. You are responsible for designing a scalable, client-agnostic, fault-tolerant system that facilitates interactions over HTTP and any other mode of interaction you believe is justifiable based upon your experience as an Engineer. Your solution should detail the surface layer system consumers will interact with. You are not responsible for designing a client. 
+Design a high-volume, data-intensive payment processing system. You are responsible for designing a scalable, fault-tolerant system that facilitates interactions over HTTP and any other mode of interaction you believe is justifiable based upon your experience as an Engineer. In addition,  your solution should detail the surface layer system consumers will interact with. You are not responsible for designing the client. 
 
 The intent of this challenge is to determine how you think about clarity in design, your aptitude for selecting the tooling best suited for addressing the below-outlined requirements, and communication. 
+
+## Functional Requirement(s)
+
+**1.** The system will allow for a consumer to register themselves as a **service provider**.  
+&nbsp; **1.1.** The system will allow each service provider to register for a **reimbursement** cycle cadence.    
+&nbsp; &nbsp; &nbsp; &nbsp; **1.1.1.** The system will enable a service provider to register for a reimbursement cadence as one of: daily, weekly, monthly, or yearly.  
+&nbsp; **1.2.** The system will enable each service provider to submit a list of `n` number of recognized service provider **members**.  
+&nbsp; &nbsp; &nbsp; &nbsp; **1.2.1.** The system will enable service providers to _update_ the recognized members associated with the service provider.  
+&nbsp; &nbsp; &nbsp; &nbsp; **1.2.2.** The system will enable service providers to _remove_ members from the the recognized members associated with the service provider.    
+&nbsp; &nbsp; &nbsp; &nbsp; **1.2.3.** The system will enable the service provider to _update_ or _remove_ the recognized members associated with the service provider at any point in time.   
+&nbsp; **1.3.** The system will enable each service provider to submit a record of reimbursable **activity**.  
+&nbsp; &nbsp; &nbsp; **1.3.1** The system will only recognize activity associated with recognized members associated with the service provider submitting the activity.    
+&nbsp; &nbsp; &nbsp; **1.3.2** The system will enable a service provider to submit a record of activity for `n` number of **members**.
+&nbsp; &nbsp; &nbsp; **1.3.3** The system will allow a service provider to update the activity record for any member.
+&nbsp; &nbsp; &nbsp; **1.3.4** The system will allow a service provider to update the activity record for any member at any point in time.
+**2.*** The system will **reimburse** service providers for the activity submitted on behalf of recognized members associated with the service provider.
+&nbsp; The system will reimburse service providers for the submitted member activity on the pre-registered reimbursement cadence.
+
 
 ## Deliverables
 
@@ -19,14 +37,7 @@ You will be given 15 minutes to present your design _and_ facilitate questions w
 - How simple would it be to add functionality to your design? Would the added functionality introduce unwanted complexit? Would a person adding functionality easily infer how the system should be extended?
 - What happens when the system experiences unexpected volume?
 
-## Functional Requirement(s)
 
-1. The system will allow for a consumer to register themselves as a **service provider**.  
-&nbsp; 1.1. The system will allow each service provider to register a **reimbursement** cadence.    
-&nbsp; &nbsp; &nbsp; &nbsp; 1.1.1. The reimbursement cadence can be at the granularity of daily, weekly, monthly, or yearly.  
-1.2. The systel will allow each service provider to 
-- The system will enable those service providers to submit a record of activity for `n` number of **members**.
-- 
 
 
 
