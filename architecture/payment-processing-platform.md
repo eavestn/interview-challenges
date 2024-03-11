@@ -66,4 +66,4 @@ Areas of weakness in a solution are:
 
 ## Interview Format
 
-You will be given 15 minutes to present your design _and_ facilitate questions while presenting. 15 additional mimnutes will be dedicate to facilitating feedback on your design.
+You will be given 15 minutes to present your design _and_ facilitate questions while presenting. 15 minutes will then be dedicated to facilitating feedback on your design.
