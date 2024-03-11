@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You will design a system that accommodates a small subset of behavior for a larger system (that behavior is defined in **Functional Requirements** below). The system is a high-volume, data-intensive revenue management system. Clients (**service providers**) pay a fee to Motility in exchange for access to Motility's locations. Motility locations provider customers (**members**) with access to a widget exchange, where highly desireable widgets are traded, risk free. Every time a member visits a Motility location, Motility pays the assocaited service provider a small reward (**reimbursement**).
+You will design a system that accommodates a small behavior subset for a larger system (that behavior is defined in **Functional Requirements** below). The system is a high-volume, data-intensive revenue management system. Clients (**service providers**) pay a fee to Motility in exchange for access to Motility's locations. Motility locations provide customers (**members**) with access to a widget exchange, where highly desireable widgets are traded, risk free. Every time a member visits a Motility location, Motility pays the assocaited service provider a small reward (**reimbursement**).
 
 You will design the reimbursement component of the system. You are responsible for designing a scalable, fault-tolerant system that facilitates interactions over HTTP and any other mode of interaction you believe is justifiable based upon your experience as an Engineer. In addition, your solution should detail the surface layer system consumers will interact with. You are not responsible for designing the client. 
 
@@ -32,7 +32,7 @@ The intent of this challenge is to determine how you think about clarity in desi
 
 Prepare an architectural diagram of your system. The system should be cloud-hosted and your design demonstrate your knowledge of fundamental cloud-hosted principles. 
 
-Please spend no longer than three hours designing your system. This time should be spent conceptualizing the system, considering the various guidances below, and diagramming your solution. Incomplete solutions are acceptable; however, diagrammed components of the system should demonstrate rigor and completeness and thought. It is more important to have a well-behaved component of the system diagrammed than it is to diagram the whole system defined by the **Functional Requirements** section above.
+Please spend no longer than three hours designing your system. This time should be spent conceptualizing the system, considering the various guidances below, and diagramming your solution. Incomplete solutions are acceptable; however, diagrammed components of the system should demonstrate rigor and completeness of thought. It is more important to have a well-behaved component of the system diagrammed than it is to diagram the whole system defined by the **Functional Requirements** section above.
 
 ### Guiding Question(s)
 
