@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You will design a small subset of a larger system (defined in **Functional Requirements**, below). The system is a high-volume, data-intensive revenue management system. 
+You will design a small subset of a larger system (defined in **Functional Requirements**, below). The _larger_ system is a high-volume, data-intensive revenue management system. 
 
 ### Scenario 
 
