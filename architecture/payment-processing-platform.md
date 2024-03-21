@@ -69,9 +69,10 @@ Each of the below criteria should be explicitly and thoughtfully addressed.
 
 ### Criteria For Failure
 
-Areas of weakness in a solution are:
+Areas of weakness in a solution include:
 
-- [ ] The inability to describe the motivation or reasoning behind a particular system component.  
+- [ ] The inability to describe the motivation or reasoning behind a particular system component.
+- [ ] Incompleteness in thought.
 
 
 ## Interview Format
