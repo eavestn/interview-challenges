@@ -40,7 +40,9 @@ The intent of this challenge is to determine how you think about clarity in desi
 
 Prepare an architectural diagram of your system. The system should be cloud-hosted and your design demonstrate your knowledge of fundamental cloud-hosted principles. 
 
-Please spend no longer than two hours designing your system. This time should be spent conceptualizing the system, considering the various guidances below, and diagramming your solution. Incomplete solutions are acceptable; however, diagrammed components of the system should demonstrate rigor and completeness of thought. It is more important to have a well-behaved component of the system diagrammed than it is to diagram the whole system defined by the **Functional Requirements** section above.
+Please spend no longer than two hours designing your system. This time should be spent conceptualizing the system, considering the various guidances below, and diagramming your solution. Incomplete solutions are acceptable; however, diagrammed components of the system should demonstrate rigor and completeness of thought. 
+
+It is more important to isolate and design a well-behaved component of the system than it is to diagram the whole system defined by the **Functional Requirements** section above.
 
 ### Guiding Question(s)
 
