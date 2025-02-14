@@ -18,6 +18,8 @@ The intent of this challenge is to determine how you think about clarity in desi
 
 ## Functional Requirements
 
+These _Functional Requirements_ may not be complete; there may be gaps. Where there are gaps, please feel empowered to make assumptions about system behavior - as long as those assumptions are clearly communicated.
+
 **1.** The system will allow for a consumer to register themselves as a **service provider**.  
 &nbsp; &nbsp; **1.1.** The system will allow each service provider to register for a **reimbursement** cycle cadence.    
 &nbsp; &nbsp; &nbsp; &nbsp; **1.1.1.** The system will enable a service provider to register for a reimbursement cadence as one of: daily, weekly, monthly, or yearly.  
