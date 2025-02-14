@@ -42,7 +42,9 @@ Prepare an architectural diagram of your system. The system should be cloud-host
 
 Please spend no longer than two hours designing your system. This time should be spent conceptualizing the system, considering the various guidances below, and diagramming your solution. Incomplete solutions are acceptable; however, diagrammed components of the system should demonstrate rigor and completeness of thought. 
 
-It is more important to isolate and design a well-behaved component of the system than it is to diagram the whole system defined by the **Functional Requirements** section above.
+### Important Note Regarding Solution Scope
+
+It is more important to isolate and design a well-behaved component of the system than it is to diagram the whole system defined by the **Functional Requirements** section above. We understand that this problem could evolve into a complex system with a tremendous number of considerations to demostrate. Focus on showing us your best, regardless of scope isolation choices. Your assessment will be evaluated on quality and depth, not breadth of scope.
 
 ### Guiding Question(s)
 
